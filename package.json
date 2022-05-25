@@ -1,0 +1,24 @@
+{
+  "name": "sink-in-tslib",
+  "version": "1.0.0",
+  "description": "A library for a flashcard program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joewrotehaikus/Sink-In-TSLib.git"
+  },
+  "keywords": [
+    "flashcard",
+    "learning",
+    "fill-in-the-blank"
+  ],
+  "author": "Joe Roper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joewrotehaikus/Sink-In-TSLib/issues"
+  },
+  "homepage": "https://github.com/joewrotehaikus/Sink-In-TSLib#readme"
+}
